@@ -1,6 +1,6 @@
 # RabIT project
 
-It is a simple website for shows list of users and advertisements stored in the database.
+It is a simple website to show list of users and advertisements stored in the database.
 
 ## Installing
 
